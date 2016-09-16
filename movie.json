@@ -1,0 +1,65 @@
+{
+  "movies": [{
+    "title" : "Harry Potter and the Philosopher's Stone",
+    "episode_number" : "1",
+    "main_characters" : ["Qui-Gon Jinn", "Obi-Wan Kenobi", "Anakin Skywalker", "Padmé Amidala", "Jar Jar Binks", "Darth Maul"],
+    "description" : "Harry Potter and the Philosopher's Stone (released in some countries as Harry Potter and the Sorcerer's Stone) is a 2001 British-American fantasy film directed by Chris Columbus and distributed by Warner Bros. Pictures. It is based on the novel of the same name by J. K. Rowling. The film, the first installment in the Harry Potter film series, was written by Steve Kloves and produced by David Heyman. The story follows Harry Potter's first year at Hogwarts as he discovers that he is a famous wizard and begins his magical education. The film stars Daniel Radcliffe as Harry Potter, with Rupert Grint as Ron Weasley, and Emma Watson as Hermione Granger. It is followed by seven sequels, beginning with Harry Potter and the Chamber of Secrets. Warner Bros. bought the film rights to the book in 1999 for a reported £1 million. Production began in the United Kingdom in 2000, with Columbus being chosen to create the film from a short list of directors that included Steven Spielberg and Rob Reiner. J. K. Rowling insisted that the entire cast be British or Irish. The film was shot at Leavesden Film Studios and historic buildings around the UK.",
+    "poster" : "star_wars_episode_1_poster.png",
+    "hero_image" : "philosophers stone.jpg"
+  },
+
+  {
+    "title" : "Harry Potter and the Chamber of Secrets",
+    "episode_number" : "2",
+    "main_characters" : ["Obi-Wan Kenobi", "Anakin Skywalker", "Count Dooku", "Padmé Amidala", "Mace Windu", "Yoda", "Jango Fett", "Supreme Chancellor Palpatine"],
+    "description" : "Harry Potter and the Chamber of Secrets is a 2002 British-American fantasy film directed by Chris Columbus and distributed by Warner Bros. Pictures.[2] It is based on the novel of the same name by J. K. Rowling. The film, which is the second instalment in the Harry Potter film series, was written by Steve Kloves and produced by David Heyman. The story follows Harry Potter's second year at Hogwarts as the Heir of Salazar Slytherin opens the Chamber of Secrets, unleashing a monster that petrifies the school's denizens. The film stars Daniel Radcliffe as Harry Potter, alongside Rupert Grint and Emma Watson as Harry's best friends Ron Weasley and Hermione Granger. It is the sequel to Harry Potter and the Philosopher's Stone and is followed by Harry Potter and the Prisoner of Azkaban. The film was released on 15 November 2002 in the United Kingdom and North America. It was very well received critically and commercially, making US$879 million worldwide. It is the seventh-highest-grossing film in the Harry Potter series and the 45th-highest-grossing film of all time.[2] It was nominated for three BAFTA Film Awards in 2003.",
+    "poster" : "star_wars_episode_2_poster.png",
+    "hero_image" : "chambers of secrets.jpg"
+  },
+
+  {
+    "title" : "Harry Potter and the Prisoner of Azkaban",
+    "episode_number" : "3",
+    "main_characters" : ["Obi-Wan Kenobi", "Anakin Skywalker", "Count Dooku", "Padmé Amidala", "Mace Windu", "Yoda", "C-3PO", "Supreme Chancellor Palpatine"],
+    "description" : "Harry Potter and the Prisoner of Azkaban is a 2004 British-American fantasy film directed by Alfonso Cuarón and distributed by Warner Bros. Pictures.[2] It is based on the novel of the same name by J. K. Rowling. The film, which is the third instalment in the Harry Potter film series, was written by Steve Kloves and produced by Chris Columbus (director of the first two instalments), David Heyman, and Mark Radcliffe. The story follows Harry Potter's third year at Hogwarts as he is informed that a prisoner named Sirius Black has escaped from Azkaban intending to kill him. The film stars Daniel Radcliffe as Harry Potter, alongside Rupert Grint and Emma Watson as Harry's best friends Ron Weasley and Hermione Granger. It also features a star-studded supporting cast including Gary Oldman, David Thewlis, Michael Gambon (in his debut in the role of Albus Dumbledore), Emma Thompson and Timothy Spall. It is the sequel to Harry Potter and the Chamber of Secrets and is followed by Harry Potter and the Goblet of Fire.",
+    "poster" : "star_wars_episode_3_poster.png",
+    "hero_image" : "prisoner of azkaban.jpg"
+  },
+
+  {
+    "title" : "Harry Potter and the Goblet of Fire",
+    "episode_number" : "4",
+    "main_characters" : ["Luke Skywalker", "Han Solo", "Princess Leia Organa", "Ben Kenobi", "Darth Vader", "C-3P0", "R2-D2", "Chewbacca"],
+    "description" : "Harry Potter and the Goblet of Fire is a 2005 British/American fantasy film directed by Mike Newell and distributed by Warner Bros. Pictures.[2] It is based on the novel of the same name by J. K. Rowling. The film, which is the fourth instalment in the Harry Potter film series, was written by Steve Kloves and produced by David Heyman. The story follows Harry Potter's fourth year at Hogwarts as he is chosen by the Goblet of Fire to compete in the Triwizard Tournament. The film stars Daniel Radcliffe as Harry Potter alongside Rupert Grint and Emma Watson as Harry's best friends Ron Weasley and Hermione Granger. It is the sequel to Harry Potter and the Prisoner of Azkaban and is followed by Harry Potter and the Order of the Phoenix.",
+    "poster" : "star_wars_episode_4_poster.png",
+    "hero_image" : "goblet of fire.jpg"
+  },
+
+  {
+    "title" : "Harry Potter and the Order of the Phoenix",
+    "episode_number" : "5",
+    "main_characters" : ["Luke Skywalker", "Han Solo", "Princess Leia Organa", "Darth Vader", "C-3P0", "R2-D2", "Chewbacca", "Lando Calrissian", "Boba Fett"],
+    "description" : "Harry Potter and the Order of the Phoenix is a 2007 British-American fantasy film directed by David Yates and distributed by Warner Bros. Pictures.[2] It is based on the novel of the same name by J. K. Rowling. The film, which is the fifth instalment in the Harry Potter film series, was written by Michael Goldenberg (making this the only film in the series not to be scripted by Steve Kloves) and produced by David Heyman and David Barron. The story follows Harry Potter's fifth year at Hogwarts as the Ministry of Magic is in denial of Lord Voldemort's return. The film stars Daniel Radcliffe as Harry Potter, alongside Rupert Grint and Emma Watson as Harry's best friends Ron Weasley and Hermione Granger. It is the sequel to Harry Potter and the Goblet of Fire and is followed by Harry Potter and the Half-Blood Prince.",
+    "poster" : "star_wars_episode_5_poster.png",
+    "hero_image" : "order of phonix.jpg"
+  },
+
+  {
+    "title" : "Harry Potter and the Half-Blood Prince",
+    "episode_number" : "6",
+    "main_characters" : ["Luke Skywalker", "Han Solo", "Princess Leia Organa", "Darth Vader", "C-3P0", "Chewbacca", "The Emperor", "Boba Fett"],
+    "description" : "Harry Potter and the Half-Blood Prince is a 2009 British-American fantasy film directed by David Yates and distributed by Warner Bros. Pictures.[2] It is based on the novel of the same name by J. K. Rowling. The film, which is the sixth instalment in the Harry Potter film series, was written by Steve Kloves and produced by David Heyman and David Barron.[3] The story follows Harry Potter's sixth year at Hogwarts as he becomes obsessed with a mysterious textbook, falls in love, and attempts to retrieve a memory that holds the key to Lord Voldemort's downfall. The film stars Daniel Radcliffe as Harry Potter, alongside Rupert Grint and Emma Watson as Harry's best friends Ron Weasley and Hermione Granger. It is the sequel to Harry Potter and the Order of the Phoenix and is followed by Harry Potter and the Deathly Hallows – Part 1. Filming began on 24 September 2007, leading to the film's worldwide cinematic release on 15 July 2009, one day short of the fourth anniversary of the corresponding novel's release. The film was simultaneously released in regular cinemas and IMAX 3D everywhere except North America, where its IMAX release was delayed for two weeks.[4]",
+    "poster" : "star_wars_episode_6_poster.png",
+    "hero_image" : "half blood prince.jpg"
+  },
+
+  {
+    "title" : "Harry Potter and the Deathly Hallows",
+    "episode_number" : "7",
+    "main_characters" : ["Luke Skywalker", "Han Solo", "Princess Leia Organa", "Darth Vader", "C-3P0", "Chewbacca", "The Emperor", "Boba Fett"],
+    "description" : "Harry Potter and the Deathly Hallows – Part 1 is a 2010 British-American fantasy film directed by David Yates and distributed by Warner Bros. Pictures.[4] It is the first of two cinematic parts based on the novel by J. K. Rowling.[5] The film, which is the seventh and penultimate instalment in the Harry Potter film series, was written by Steve Kloves and produced by David Heyman, David Barron, and Rowling. The film stars Daniel Radcliffe as Harry Potter, alongside Rupert Grint and Emma Watson as Harry's best friends Ron Weasley and Hermione Granger. It is the sequel to Harry Potter and the Half-Blood Prince and is followed by the concluding entry, Harry Potter and the Deathly Hallows – Part 2.",
+    "poster" : "star_wars_episode_6_poster.png",
+    "hero_image" : "deathly hallows.jpg"
+  }]
+
+}

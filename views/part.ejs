@@ -1,0 +1,31 @@
+<!DOCTYPE >
+<html>
+<head>
+	<title>Home</title>
+	<link rel="stylesheet" type="text/css" href="/stylesheet/style.css">
+</head>
+<body>
+
+<% include partials/nav.ejs %>
+
+<div class="header"">
+	<div class="header-title">
+		<%= title %>
+	</div>
+</div>
+
+<div class="desc">
+	<div class="movie-poster">
+		<img src="/images/<%= movie.hero_image %>" >
+	</div>
+	<div class="desc-p">	
+		<p><%= movie.description %></p>
+	</div>	
+</div>
+
+<div>
+	<% include partials/footer.ejs %>
+</div>
+
+</body>
+</html>

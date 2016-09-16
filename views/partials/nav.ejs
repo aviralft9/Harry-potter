@@ -1,0 +1,13 @@
+<nav class="nav-bar">
+	<ul>
+		<li><a href="/">Home</a></li>
+		<li>Movies 
+			<ul class="sub-nav">
+				<% for(var i=0; i<7 ; i++){ %>
+					<li><a href="/part/<%= i+1 %>"><%= movies[i].title %></a></li>
+				<% } %>
+			</ul>
+			<span>&#8681;</span>
+		</li>
+	</ul>
+</nav>

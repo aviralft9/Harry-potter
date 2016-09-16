@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Home</title>
+	<link rel="stylesheet" type="text/css" href="/stylesheet/style.css">
+</head>
+<body>
+
+<% include partials/nav.ejs %>
+
+<div class="header"">
+	<div class="header-title">
+		<%= title %>
+	</div>
+</div>
+
+<div class="wrapper">
+	<% for(var i=0; i<7; i++){ %>
+		<div class="movie-poster">
+			<figure class="fig"> 
+				<img src="/images/<%= movies[i].hero_image %>">
+				<figcaption>
+					<div class="movie-title">
+						<h2><a href="/part/<%= i+1 %>"><%= movies[i].title %></a></h2>
+					</div>
+				</figcaption>
+			</figure>
+		</div>
+	<% } %>
+</div>
+
+<% include partials/footer.ejs %>
+
+
+</body>
+</html>
